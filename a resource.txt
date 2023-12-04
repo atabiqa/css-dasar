@@ -1,0 +1,5 @@
+https://css-tricks.com/almanac/selectors/t/type/
+https://css-tricks.com/almanac/selectors/i/id/
+https://css-tricks.com/almanac/selectors/c/class/
+https://css-tricks.com/almanac/selectors/d/descentdant/
+https://css-tricks.com/almanac/selectors/c/child/
